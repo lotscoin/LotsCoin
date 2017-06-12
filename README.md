@@ -1,0 +1,2 @@
+# LotsCoin
+Official LotsCoin Core
